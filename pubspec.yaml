@@ -23,13 +23,13 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  webview_plugin:
-    git:
-      url: git@git.coretechnology.pl:TechSigma/PSWebViewPlugin.git
-      ref: master
-  sigma_common_plugin:
-    git:
-      url: git@git.coretechnology.pl:TechSigma/PSCommonPlugin.git
+#  webview_plugin:
+#    git:
+#      url: git@git.coretechnology.pl:TechSigma/PSWebViewPlugin.git
+#      ref: master
+#  sigma_common_plugin:
+#    git:
+#      url: git@git.coretechnology.pl:TechSigma/PSCommonPlugin.git
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
